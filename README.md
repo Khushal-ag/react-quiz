@@ -1,8 +1,31 @@
-# React + Vite
+# React Quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Basic Vite App to understand complex state management
 
-Currently, two official plugins are available:
+## How to run
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Clone the repo
+
+```bash
+khushal㉿Khushal-[$] git clone https://github.com/Khushal-ag/react-quiz.git
+
+khushal㉿Khushal-[$] cd react-quiz
+```
+
+- Install dependencies
+
+```bash
+khushal㉿Khushal-[$] pnpm i
+```
+
+- Run the app
+
+```bash
+khushal㉿Khushal-[$] pnpm dev
+```
+
+- Run the api server
+
+```bash
+khushal㉿Khushal-[$] pnpm run server
+```
